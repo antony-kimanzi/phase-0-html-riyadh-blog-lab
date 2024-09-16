@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(rgb(2, 75, 8), rgb(255, 255, 255));
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 100%;
+  color: rgb(2, 75, 8);
 }
 
 .wrapper {
@@ -52,7 +53,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 2em;
 }
 
 a {
